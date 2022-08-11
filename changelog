@@ -1,0 +1,10 @@
+### 1.0.0
+- Json file DB
+- Musicians simple CRUD
+
+### RoadMap
+- isolate the endpoints
+- create models
+- isolate the data access
+- implement access to a db
+- increase functionality

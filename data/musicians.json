@@ -1,0 +1,41 @@
+[
+    {
+      "name": "Fat Mike",
+      "instruments": [
+        "bass",
+        "vocals"
+      ],
+      "id": "6cd26682-ab7b-4cc5-9140-49a8fe14aed4"
+    },
+    {
+      "name": "Eric Melvin",
+      "instruments": [
+        "guitar",
+        "vocals"
+      ],
+      "id": "3b8b7faa-38d5-402c-968e-877d2ffc1c56"
+    },
+    {
+      "name": "El Hefe",
+      "instruments": [
+        "guitar",
+        "vocals"
+      ],
+      "id": "c1dc75ba-593a-420e-b1e9-d4af52fcd6b4"
+    },
+    {
+      "name": "Smelly",
+      "instruments": [
+        "drums"
+      ],
+      "id": "af5a954c-fd38-4e45-9edc-0c916b476ba3"
+    },
+    {
+      "name": "Karina Deniké",
+      "instruments": [
+        "vocals",
+        "keyboard"
+      ],
+      "id": "6d5f6fa5-1bc9-4a4c-8475-9d5459bfed94"
+    }
+  ]
